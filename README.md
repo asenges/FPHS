@@ -1,2 +1,2 @@
 # FPHS
-Final Project Holberton School Sample Work Place
+Final Project Holberton School Sample RedHat Openshift Workplace
